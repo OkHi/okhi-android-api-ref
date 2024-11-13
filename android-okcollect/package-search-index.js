@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"io.okhi.android_okcollect"},{"l":"io.okhi.android_okcollect.activity"},{"l":"io.okhi.android_okcollect.callbacks"},{"l":"io.okhi.android_okcollect.interfaces"},{"l":"io.okhi.android_okcollect.models"},{"l":"io.okhi.android_okcollect.utilities"}];updateSearchResults();
